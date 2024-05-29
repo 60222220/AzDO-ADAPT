@@ -1,0 +1,17 @@
+{
+  "techDebtType": [
+    "Architecture Debt",
+    "Build Debt",
+    "Code Debt",
+    "Defect Debt",
+    "Design Debt",
+    "Documentation Debt",
+    "Infrastructure Debt",
+    "People Debt",
+    "Process Debt",
+    "Requirement Debt",
+    "Service Debt",
+    "Test Automation Debt",
+    "Test Debt"
+  ]
+}
