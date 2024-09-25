@@ -1,9 +1,9 @@
 {
   "entities": [
     {"entity": "Ambiguous acceptance critieria"},
-	{"entity": "Budgetary constraints"},
+    {"entity": "Budgetary constraints"},
     {"entity": "Business readiness issue"},
-	{"entity": "Communication breakdown"},
+    {"entity": "Communication breakdown"},
     {"entity": "Competing priorities"},
     {"entity": "Contractual constraints"}, 
     {"entity": "Competing priorities"},	
