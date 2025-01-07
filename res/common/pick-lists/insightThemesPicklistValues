@@ -1,0 +1,27 @@
+{
+  "entities": [
+    {"entity": "Customer Pain Point"},
+    {"entity": "Improvement Opportunity"},
+    {"entity": "Best Practice"},
+    {"entity": "Success Story"},
+    {"entity": "Knowledge Gap"},
+    {"entity": "Emerging Trend"},
+    {"entity": "Operational Efficiency"},
+    {"entity": "Stakeholder Alignment"},
+    {"entity": "Customer Expectations"},
+    {"entity": "Team Collaboration"},
+    {"entity": "Technology Adoption"},
+    {"entity": "Process Bottlenecks"},
+    {"entity": "Market Competitiveness"},
+    {"entity": "Innovation Opportunity"},
+    {"entity": "Cultural or Behavioral Insight"},
+    {"entity": "Value Misalignment"},
+    {"entity": "Customer Satisfaction"},
+    {"entity": "Customer Dissatisfaction"},
+    {"entity": "Resource Allocation"},
+    {"entity": "Risk Identification"},
+    {"entity": "Feedback Utilisation"},
+    {"entity": "Change Readiness"},
+	{"entity": "Other"},
+  ]
+}
