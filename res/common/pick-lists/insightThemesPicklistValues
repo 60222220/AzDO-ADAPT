@@ -22,6 +22,6 @@
     {"entity": "Risk Identification"},
     {"entity": "Feedback Utilisation"},
     {"entity": "Change Readiness"},
-	{"entity": "Other"},
+    {"entity": "Other"}
   ]
 }
