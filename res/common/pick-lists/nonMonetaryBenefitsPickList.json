@@ -1,0 +1,16 @@
+{
+  "entities": [
+    {"entity": "Compliance Risk Reduction"},
+    {"entity": "Economic Sustainability"},
+    {"entity": "Enhanced User Experience"},
+    {"entity": "Environmental Risk Reduction"},
+    {"entity": "Environmental Sustainability"},
+    {"entity": "Financial Risk Reduction"},
+    {"entity": "Improved Performance"},
+    {"entity": "Legal and Regulatory Risk Reduction"},
+    {"entity": "Market Risk Reduction"},
+    {"entity": "Operational Risk Reduction"},
+    {"entity": "Professional Development"},
+    {"entity": "Security Risk Reduction"}
+  ]
+}
