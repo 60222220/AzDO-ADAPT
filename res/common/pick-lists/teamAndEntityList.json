@@ -1,5 +1,6 @@
 {
   "entities": [
+    {"entity": "None"},
     {"entity": "Agency for Clinical Innovation"},
     {"entity": "Bureau of Health Information"},
     {"entity": "Calvary Mater Hospital Newcastle"},
@@ -14,6 +15,7 @@
     {"entity": "CS - Cloud Platform"},
     {"entity": "CS - Cloudability"},
     {"entity": "CS - Leadership"},
+	{"entity": "CS - GitHealth"},
     {"entity": "Data Protection Team"},
     {"entity": "DC Infrastructure"},
     {"entity": "End Point Mgmt & Mobility Team"},
