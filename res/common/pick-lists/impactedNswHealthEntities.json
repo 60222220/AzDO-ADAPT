@@ -26,6 +26,7 @@
     {"entity": "NSW Ambulance"},
     {"entity": "NSW Health Pathology"},
     {"entity": "SCHN"},
+	{"entity": "SDPR"},
     {"entity": "SESLHD"},
     {"entity": "SLHD"},
     {"entity": "SNSWLHD"},
